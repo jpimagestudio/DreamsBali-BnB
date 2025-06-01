@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="1" appversion="7.1.9" apprev="20995" start="node5">
+  <panorama id="node5" hideabout="1">
+    <input overlap="1" width="1874" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1874" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1874" preload="0" height="1874"/>
+      <level predecode="0" width="937" preload="0" height="937"/>
+      <level predecode="1" width="468" preload="1" height="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-96.0315">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Dreams Bali manor" comment="" datetime="2023/12/2 11:06" latitude="23.48732193" description="聯外道路" nodeid="node5" source="" customnodeid="" heading="-96.0315" info="" author="" copyright="" longitude="121.36295467" tags="戶外"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="大門入口" id="Point01" description="" distance="17.2515" pan="-8.75801" skinid="ht_node" url="{node4}" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input overlap="1" width="1872" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1872" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1872" preload="0" height="1872"/>
+      <level predecode="0" width="936" preload="0" height="936"/>
+      <level predecode="1" width="468" preload="1" height="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-91.8051">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="大門入口" comment="" datetime="2023/12/2 11:14" latitude="23.48732931" description="" nodeid="node4" source="" customnodeid="" heading="-91.8051" info="" author="" copyright="" longitude="121.36278570" tags="戶外"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="Dreams Bali manor" id="Point02" description="" distance="17.2515" pan="-184.532" skinid="ht_node" url="{node5}" target="$fwd" tilt="0"/>
+      <hotspot title="往Villa | 會館" id="Point04" description="" distance="91.0456" pan="35.9944" skinid="ht_node" url="{node16}" target="$fwd" tilt="0"/>
+      <hotspot title="往樓中樓" id="Point05" description="" distance="25.1212" pan="-37.0523" skinid="ht_node" url="{node11}" target="$fwd" tilt="0"/>
+      <hotspot title="空拍全景" pan="-348.18" id="Point01" skinid="ht_node_aerial" description="" url="{node64}" target="$fwd" tilt="20.86"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input overlap="1" width="1873" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1873" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1873" preload="0" height="1873"/>
+      <level predecode="0" width="936" preload="0" height="936"/>
+      <level predecode="1" width="468" preload="1" height="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="88.0503">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="碼頭" comment="" datetime="2023/12/2 17:29" latitude="23.48731947" description="" nodeid="node7" source="" customnodeid="" heading="88.0503" info="" author="" copyright="" longitude="121.36198372" tags="戶外"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="音樂廳" id="Point02" description="" distance="46.8585" pan="205.513" skinid="ht_node" url="{node9}" target="$fwd" tilt="0"/>
+      <hotspot title="往樓中樓" id="Point03" description="" distance="63.2246" pan="12.3274" skinid="ht_node" url="{node11}" target="$fwd" tilt="0"/>
+      <hotspot title="會館前" id="Point01" description="" distance="37.029" pan="-87.7137" skinid="ht_node" url="{node22}" target="$fwd" tilt="0"/>
+      <hotspot title="空拍全景" pan="-34.19" id="Point04" skinid="ht_node_aerial" description="" url="{node64}" target="$fwd" tilt="34.02"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input overlap="1" width="1899" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1899" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1899" preload="0" height="1899"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-9.74732">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="音樂廳" comment="" datetime="2023/12/3 22:29" latitude="23.48712021" description="" nodeid="node8" source="" customnodeid="" heading="-9.74732" info="" author="" copyright="" longitude="121.36153042" tags="戶外"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="音樂廳" id="Point02" description="" distance="4.68247" pan="-93.0378" skinid="ht_node" url="{node9}" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input overlap="1" width="1898" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1898" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1898" preload="0" height="1898"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-55.4857">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="音樂廳" comment="" datetime="2023/12/3 22:35" latitude="23.48712513" description="" nodeid="node9" source="" customnodeid="" heading="-55.4857" info="" author="" copyright="" longitude="121.36157602" tags="戶外"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="音樂廳" id="Point01" description="" distance="4.68247" pan="41.2238" skinid="ht_node" url="{node8}" target="$fwd" tilt="0"/>
+      <hotspot title="碼頭" id="Point02" description="" distance="46.8585" pan="-118.023" skinid="ht_node" url="{node7}" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input overlap="1" width="1871" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1871" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1871" preload="0" height="1871"/>
+      <level predecode="0" width="935" preload="0" height="935"/>
+      <level predecode="1" width="467" preload="1" height="467"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="92.3452">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="往樓中樓" comment="" datetime="2023/12/2 18:44" latitude="23.48745969" description="" nodeid="node11" source="" customnodeid="" heading="92.3452" info="" author="" copyright="" longitude="121.36258453" tags="戶外"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="碼頭" id="Point02" description="" distance="63.2246" pan="196.622" skinid="ht_node" url="{node7}" target="$fwd" tilt="0"/>
+      <hotspot title="大門入口" id="Point01" description="" distance="25.1212" pan="-32.902" skinid="ht_node" url="{node4}" target="$fwd" tilt="0"/>
+      <hotspot title="樓中樓4人房 201" id="Point03" description="" distance="18.0151" pan="62.2759" skinid="ht_node" url="{node26}" target="$fwd" tilt="0"/>
+      <hotspot title="樓中樓4人房 202" id="Point04" description="" distance="26.1975" pan="42.6855" skinid="ht_node" url="{node31}" target="$fwd" tilt="0"/>
+      <hotspot title="會館前" id="Point05" description="" distance="78.6439" pan="224.244" skinid="ht_node" url="{node22}" target="$fwd" tilt="0"/>
+      <hotspot title="空拍全景" pan="-135.8" id="Point06" skinid="ht_node_aerial" description="" url="{node64}" target="$fwd" tilt="16.36"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input overlap="1" width="1872" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1872" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1872" preload="0" height="1872"/>
+      <level predecode="0" width="936" preload="0" height="936"/>
+      <level predecode="1" width="468" preload="1" height="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-98.9519">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="往Villa | 會館" comment="" datetime="2023/12/2 17:15" latitude="23.48682747" description="" nodeid="node16" source="" customnodeid="" heading="-98.9519" info="" author="" copyright="" longitude="121.36208028" tags="戶外"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="會館前" id="Point02" description="" distance="19.1498" pan="-77.1498" skinid="ht_node" url="{node22}" target="$fwd" tilt="0"/>
+      <hotspot title="Villa 走道 101/102" id="Point03" description="" distance="29.7967" pan="6.48783" skinid="ht_node" url="{node14}" target="$fwd" tilt="0"/>
+      <hotspot title="大門入口" id="Point01" description="" distance="91.0456" pan="-151.152" skinid="ht_node" url="{node4}" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input overlap="1" width="1870" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1870" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1870" preload="0" height="1870"/>
+      <level predecode="0" width="935" preload="0" height="935"/>
+      <level predecode="1" width="467" preload="1" height="467"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="159.731">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Villa 走道 101/102" comment="" datetime="2023/12/3 21:30" latitude="23.48675613" description="" nodeid="node14" source="" customnodeid="" heading="159.731" info="" author="" copyright="" longitude="121.36179865" tags="戶外"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="往Villa | 會館" id="Point06" description="" distance="29.7967" pan="85.1708" skinid="ht_node" url="{node16}" target="$fwd" tilt="0"/>
+      <hotspot title="Villa 走道 103/105" id="Point03" description="" distance="11.2789" pan="272.563" skinid="ht_node" url="{node15}" target="$fwd" tilt="0"/>
+      <hotspot title="豪華Villa 2人房102" pan="-189.92" id="Point01" skinid="ht_node" description="" url="{node42}" target="$fwd" tilt="0.47"/>
+      <hotspot title="豪華Villa 2人房102" pan="-163.98" id="Point02" skinid="ht_node" description="" url="{node35}" target="$fwd" tilt="0.31"/>
+      <hotspot title="空拍全景" pan="-249.61" id="Point04" skinid="ht_node_aerial" description="" url="{node64}" target="$fwd" tilt="17.49"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input overlap="1" width="1879" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1879" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1879" preload="0" height="1879"/>
+      <level predecode="0" width="939" preload="0" height="939"/>
+      <level predecode="1" width="469" preload="1" height="469"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="149.562">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Villa 走道 103/105" comment="" datetime="2023/12/3 21:32" latitude="23.48671677" description="" nodeid="node15" source="" customnodeid="" heading="149.562" info="" author="" copyright="" longitude="121.36169672" tags="戶外"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="Villa 走道 101/102" id="Point03" description="" distance="11.2789" pan="82.3945" skinid="ht_node" url="{node14}" target="$fwd" tilt="0"/>
+      <hotspot title="Villa 2人房 103" pan="-201.7" id="Point01" skinid="ht_node" description="" url="{node49}" target="$fwd" tilt="1.68"/>
+      <hotspot title="豪華Villa 2人房 105" pan="-177.92" id="Point02" skinid="ht_node" description="" url="{node56}" target="$fwd" tilt="2.22"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <input overlap="1" width="1871" leveltilesize="510" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1871" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1871" preload="0" height="1871"/>
+      <level predecode="0" width="935" preload="0" height="935"/>
+      <level predecode="1" width="467" preload="1" height="467"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-98.1473">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="會館前" comment="" datetime="2023/12/2 17:21" latitude="23.48698737" description="" nodeid="node22" source="" customnodeid="" heading="-98.1473" info="" author="" copyright="" longitude="121.36201054" tags="會館"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="往Villa | 會館" id="Point01" description="" distance="19.1498" pan="-256.345" skinid="ht_node" url="{node16}" target="$fwd" tilt="0"/>
+      <hotspot title="會館｜餐廳" id="Point02" description="" distance="8.31939" pan="19.2602" skinid="ht_node" url="{node17}" target="$fwd" tilt="0"/>
+      <hotspot title="碼頭" id="Point03" description="" distance="37.029" pan="-93.9113" skinid="ht_node" url="{node7}" target="$fwd" tilt="0"/>
+      <hotspot title="往樓中樓" id="Point04" description="" distance="78.6439" pan="-146.249" skinid="ht_node" url="{node11}" target="$fwd" tilt="0"/>
+      <hotspot title="空拍全景" pan="-147.37" id="Point05" skinid="ht_node_aerial" description="" url="{node64}" target="$fwd" tilt="19.4"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input overlap="1" width="1897" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1897" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1897" preload="0" height="1897"/>
+      <level predecode="0" width="948" preload="0" height="948"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="62.39">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="會館｜餐廳" comment="" datetime="2023/12/3 22:18" latitude="23.48695293" description="" nodeid="node17" source="" customnodeid="" heading="62.39" info="" author="" copyright="" longitude="121.36193812" tags="會館"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="會館前" id="Point01" description="" distance="8.31939" pan="-2.30243" skinid="ht_node" url="{node22}" target="$fwd" tilt="-9.68"/>
+      <hotspot title="會館｜餐廳" id="Point02" description="" distance="5.53855" pan="172.616" skinid="ht_node" url="{node18}" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input overlap="1" width="1896" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1896" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1896" preload="0" height="1896"/>
+      <level predecode="0" width="948" preload="0" height="948"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="68.5997">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="會館｜餐廳" comment="" datetime="2023/12/5 14:46" latitude="23.48693571" description="" nodeid="node18" source="" customnodeid="" heading="68.5997" info="" author="" copyright="" longitude="121.36188716" tags="會館"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="會館｜餐廳" id="Point01" description="" distance="5.53855" pan="-1.17464" skinid="ht_node" url="{node17}" target="$fwd" tilt="0"/>
+      <hotspot title="" id="Point02" description="" distance="6.38586" pan="93.0265" skinid="ht_node" url="{node19}" target="$fwd" tilt="-0.54"/>
+      <hotspot title="" pan="-116.082" id="Point03" skinid="ht_node" description="" url="{node20}" target="$fwd" tilt="-1.19"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <input overlap="1" width="1901" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1901" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1901" preload="0" height="1901"/>
+      <level predecode="0" width="950" preload="0" height="950"/>
+      <level predecode="1" width="475" preload="1" height="475"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="124.27">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="" comment="" datetime="2023/12/5 17:15" latitude="23.48699229" description="" nodeid="node19" source="" customnodeid="" heading="124.27" info="" author="" copyright="" longitude="121.36187643" tags="會館"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="會館｜餐廳" id="Point01" description="" distance="6.38586" pan="-45.8632" skinid="ht_node" url="{node18}" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input overlap="1" width="1899" leveltilesize="510" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1899" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1899" preload="0" height="1899"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="66.6509">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="" comment="" datetime="2023/12/5 18:56" latitude="" description="" nodeid="node20" source="" customnodeid="" heading="66.6509" info="" author="" copyright="" longitude="" tags="會館"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="會館｜餐廳" pan="60.4892" id="Point01" skinid="ht_node" description="" url="{node18}" target="$fwd" tilt="-10.01"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node26" hideabout="1">
+    <input overlap="1" width="1900" leveltilesize="510" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1900" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1900" preload="0" height="1900"/>
+      <level predecode="0" width="950" preload="0" height="950"/>
+      <level predecode="1" width="475" preload="1" height="475"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-124.214">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="樓中樓4人房 201" comment="" datetime="2023/12/3 22:45" latitude="23.48759990" description="挑高斜屋頂，2張床獨立放在上下兩層樓，保有輕隱秘空間，可以坐在戶外露檯看著美麗的莊園景色，享用露檯早餐及下午茶。 戶外露檯、戶外露檯桌椅、峇里島吊籃椅、房內獨立衛浴及浴缸、峇里島進口傢俱、浪漫公主床(雙人加大)、樓中樓雙人床、獨立分離式冷暖氣機、60吋液晶電視、TOTO免治馬桶&#xa;&#xa;房型：大雙人床 x 1 | 雙人床 x 1 | 5 人 | 23 坪&#xa;&#xa;設施 :&#xa;空調 | 衣櫥 | 暖氣 | 雙人床 | 大雙人床 | 嬰兒床 | 私人衛浴 | 浴缸 | 淋浴 | 吹風機 | 免費盥洗用品 | 拖鞋" nodeid="node26" source="" customnodeid="" heading="-124.214" info="" author="" copyright="" longitude="121.36267304" tags="201|閣樓房"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="201 客廳" pan="-124.214" id="Point01" skinid="ht_node" description="" url="{node23}" target="$fwd" tilt="0"/>
+      <hotspot title="往樓中樓" id="Point03" description="" distance="18.0151" pan="25.7166" skinid="ht_node" url="{node11}" target="$fwd" tilt="0"/>
+      <hotspot title="樓中樓4人房 202" id="Point04" description="" distance="11.0268" pan="-207.089" skinid="ht_node" url="{node31}" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node23" hideabout="1">
+    <input overlap="1" width="1899" leveltilesize="510" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1899" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1899" preload="0" height="1899"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-93.9882">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="201 客廳" comment="" datetime="2023/12/4 22:54" latitude="" description="" nodeid="node23" source="" customnodeid="" heading="-93.9882" info="" author="" copyright="" longitude="" tags="201|閣樓房"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="樓中樓4人房 201" pan="86.0118" id="Point01" skinid="ht_node" description="" url="{node26}" target="$fwd" tilt="0"/>
+      <hotspot title="201 樓中樓" pan="-112.88" id="Point03" skinid="ht_node" description="" url="{node25}" target="$fwd" tilt="29.45"/>
+      <hotspot title="201 浴室" pan="-69.16" id="Point02" skinid="ht_node" description="" url="{node63}" target="$fwd" tilt="-5.61"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node63" hideabout="1">
+    <input overlap="1" width="1632" leveltilesize="510" leveltileurl="tiles/node63/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1632" preload="0" height="1632"/>
+      <level predecode="0" width="816" preload="0" height="816"/>
+      <level predecode="1" width="408" preload="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="201 浴室" comment="" datetime="2023/11/30 10:13" latitude="" description="" nodeid="node63" source="" altitude="132.00" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="201"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="201 客廳" pan="-230.54" id="Point01" skinid="ht_node" description="" url="{node23}" target="$fwd" tilt="-10.55"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node25" hideabout="1">
+    <input overlap="1" width="1887" leveltilesize="510" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1887" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1887" preload="0" height="1887"/>
+      <level predecode="0" width="943" preload="0" height="943"/>
+      <level predecode="1" width="471" preload="1" height="471"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="81.7719">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="201 樓中樓" comment="" datetime="2023/12/2 21:02" latitude="" description="" nodeid="node25" source="" customnodeid="" heading="81.7719" info="" author="" copyright="" longitude="" tags="201|閣樓房"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="201 客廳" pan="-124.75" id="Point01" skinid="ht_node" description="" url="{node23}" target="$fwd" tilt="-29.07"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node31" hideabout="1">
+    <input overlap="1" width="1899" leveltilesize="510" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1899" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1899" preload="0" height="1899"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-73.1537">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="樓中樓4人房 202" comment="" datetime="2023/12/4 0:22" latitude="23.48761220" description="挑高斜屋頂，2張床獨立放在上下兩層樓，保有輕隱秘空間，可以坐在戶外露檯看著美麗的莊園景色，享用露檯早餐及下午茶。 戶外露檯、戶外露檯桌椅、峇里島吊籃椅、房內獨立衛浴及浴缸、峇里島進口傢俱、浪漫公主床(雙人加大)、樓中樓雙人床、獨立分離式冷暖氣機、60吋液晶電視、TOTO免治馬桶&#xa;&#xa;房型：大雙人床 x 1 | 雙人床 x 1 | 5 人 | 23 坪&#xa;&#xa;設施 :&#xa;空調 | 衣櫥 | 暖氣 | 雙人床 | 大雙人床 | 嬰兒床 | 私人衛浴 | 浴缸 | 淋浴 | 吹風機 | 免費盥洗用品 | 拖鞋" nodeid="node31" source="" customnodeid="" heading="-73.1537" info="" author="" copyright="" longitude="121.36278033" tags="202|閣樓房"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="202 客廳" pan="-71.51" id="Point01" skinid="ht_node" description="" url="{node27}" target="$fwd" tilt="-0.34"/>
+      <hotspot title="往樓中樓" id="Point03" description="" distance="26.1975" pan="57.1866" skinid="ht_node" url="{node11}" target="$fwd" tilt="0"/>
+      <hotspot title="樓中樓4人房 201" id="Point04" description="" distance="11.0268" pan="23.9713" skinid="ht_node" url="{node26}" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node27" hideabout="1">
+    <input overlap="1" width="1898" leveltilesize="510" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1898" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1898" preload="0" height="1898"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-79.4681">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="202 客廳" comment="" datetime="2023/12/4 0:36" latitude="" description="" nodeid="node27" source="" customnodeid="" heading="-79.4681" info="" author="" copyright="" longitude="" tags="202|閣樓房"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="樓中樓4人房 202" pan="-252.11" id="Point01" skinid="ht_node" description="" url="{node31}" target="$fwd" tilt="0.77"/>
+      <hotspot title="202 浴室" pan="-54.62" id="Point02" skinid="ht_node" description="" url="{node29}" target="$fwd" tilt="1.97"/>
+      <hotspot title="202 樓中樓" pan="-99.47" id="Point04" skinid="ht_node" description="" url="{node30}" target="$fwd" tilt="26.66"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node29" hideabout="1">
+    <input overlap="1" width="1903" leveltilesize="510" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1903" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1903" preload="0" height="1903"/>
+      <level predecode="0" width="951" preload="0" height="951"/>
+      <level predecode="1" width="475" preload="1" height="475"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-97.7332">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="202 浴室" comment="" datetime="2023/12/4 0:47" latitude="" description="" nodeid="node29" source="" customnodeid="" heading="-97.7332" info="" author="" copyright="" longitude="" tags="202|閣樓房"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="202 客廳" pan="-325.17" id="Point01" skinid="ht_node" description="" url="{node27}" target="$fwd" tilt="-1.04"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node30" hideabout="1">
+    <input overlap="1" width="1881" leveltilesize="510" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1881" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1881" preload="0" height="1881"/>
+      <level predecode="0" width="940" preload="0" height="940"/>
+      <level predecode="1" width="470" preload="1" height="470"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-97.4343">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="202 樓中樓" comment="" datetime="2023/12/2 19:48" latitude="" description="" nodeid="node30" source="" customnodeid="" heading="-97.4343" info="" author="" copyright="" longitude="" tags="202|閣樓房"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="202 客廳" pan="-296.76" id="Point01" skinid="ht_node" description="" url="{node27}" target="$fwd" tilt="-34.3"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node35" hideabout="1">
+    <input overlap="1" width="1875" leveltilesize="510" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1875" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1875" preload="0" height="1875"/>
+      <level predecode="0" width="937" preload="0" height="937"/>
+      <level predecode="1" width="468" preload="1" height="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="豪華Villa 2人房102" comment="" datetime="2023/12/3 18:14" latitude="" description="私人庭院、私人泳池、發呆亭、戶外大浴缸、浪漫公主床(雙人加大)、房間發呆椅、泳池漂浮下午茶、房內蒸氣浴、歐舒丹備品、獨立分離式冷暖氣機、液晶電視、TOTO免治馬桶、峇里島進口傢俱、房內乾溼分離衛浴&#xa;&#xa;設施 : 空調 | 風扇 | 暖氣 | 蚊帳 | 大雙人床 | 私人花園 | 私人泳池 | 私人衛浴 | 浴缸 | 淋浴 | 吹風機 | 免費盥洗用品 | 拖鞋 | 浴帽 | 洗髮精 | 潤髮乳 | 毛巾 | 免費無線上網 | CD 播放機 | 有線頻道 | 電熱水壺 | 平面電視 |免治馬桶&#xa;&#xa;大雙人床 x 1 | 4 人 | 35 坪&#xa;~豪華Villa另有獨立私人後院，設有戶外淋浴及擺放圓形大浴缸~" nodeid="node35" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="101|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="豪華Villa 2人房102" pan="-4.21" id="Point01" skinid="ht_node" description="" url="{node38}" target="$fwd" tilt="-1.14"/>
+      <hotspot title="Villa 走道 101/102" pan="-181.86" id="Point02" skinid="ht_node" description="" url="{node14}" target="$fwd" tilt="0.09"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node39" hideabout="1">
+    <input overlap="1" width="1899" leveltilesize="510" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1899" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1899" preload="0" height="1899"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="豪華Villa 2人房102" comment="" datetime="2023/12/5 12:26" latitude="" description="沙發" nodeid="node39" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="101|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="豪華Villa 2人房102" pan="-107.99" id="Point01" skinid="ht_node" description="" url="{node38}" target="$fwd" tilt="-17.15"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node38" hideabout="1">
+    <input overlap="1" width="1897" leveltilesize="510" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1897" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1897" preload="0" height="1897"/>
+      <level predecode="0" width="948" preload="0" height="948"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="豪華Villa 2人房102" comment="" datetime="2023/12/5 12:17" latitude="" description="床頭" nodeid="node38" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="101|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="豪華Villa 2人房102" pan="-93.44" id="Point01" skinid="ht_node" description="" url="{node37}" target="$fwd" tilt="-16.64"/>
+      <hotspot title="豪華Villa 2人房102" pan="-182.46" id="Point02" skinid="ht_node" description="" url="{node35}" target="$fwd" tilt="-18.12"/>
+      <hotspot title="豪華Villa 2人房102" pan="-287.62" id="Point03" skinid="ht_node" description="" url="{node39}" target="$fwd" tilt="-17.46"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node37" hideabout="1">
+    <input overlap="1" width="1899" leveltilesize="510" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1899" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1899" preload="0" height="1899"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="豪華Villa 2人房102" comment="" datetime="2023/12/5 12:00" latitude="" description="浴室" nodeid="node37" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="101|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="豪華Villa 2人房102" pan="-273.51" id="Point01" skinid="ht_node" description="" url="{node38}" target="$fwd" tilt="-21"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node42" hideabout="1">
+    <input overlap="1" width="1897" leveltilesize="510" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1897" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1897" preload="0" height="1897"/>
+      <level predecode="0" width="948" preload="0" height="948"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="豪華Villa 2人房102" comment="" datetime="2023/12/5 13:01" latitude="" description="私人庭院、私人泳池、發呆亭、戶外大浴缸、浪漫公主床(雙人加大)、房間發呆椅、泳池漂浮下午茶、房內蒸氣浴、歐舒丹備品、獨立分離式冷暖氣機、液晶電視、TOTO免治馬桶、峇里島進口傢俱、房內乾溼分離衛浴&#xa;&#xa;設施 : 空調 | 風扇 | 暖氣 | 蚊帳 | 大雙人床 | 私人花園 | 私人泳池 | 私人衛浴 | 浴缸 | 淋浴 | 吹風機 | 免費盥洗用品 | 拖鞋 | 浴帽 | 洗髮精 | 潤髮乳 | 毛巾 | 免費無線上網 | CD 播放機 | 有線頻道 | 電熱水壺 | 平面電視 &#xa;&#xa;大雙人床 x 1 | 4 人 | 27 坪&#xa;" nodeid="node42" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="102|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="Villa 2人房 101" pan="-0.37" id="Point02" skinid="ht_node" description="" url="{node45}" target="$fwd" tilt="1.34"/>
+      <hotspot title="Villa 走道 101/102" pan="-181.55" id="Point01" skinid="ht_node" description="" url="{node14}" target="$fwd" tilt="0.09"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node44" hideabout="1">
+    <input overlap="1" width="1899" leveltilesize="510" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1899" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1899" preload="0" height="1899"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Villa 2人房 101" comment="" datetime="2023/12/5 13:11" latitude="" description="浴室" nodeid="node44" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="102|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="Villa 2人房 101" pan="-269.12" id="Point01" skinid="ht_node" description="" url="{node45}" target="$fwd" tilt="-21.82"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node45" hideabout="1">
+    <input overlap="1" width="1897" leveltilesize="510" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1897" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1897" preload="0" height="1897"/>
+      <level predecode="0" width="948" preload="0" height="948"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Villa 2人房 101" comment="" datetime="2023/12/5 13:31" latitude="" description="床頭" nodeid="node45" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="102|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="Villa 2人房 101" pan="-263.76" id="Point01" skinid="ht_node" description="" url="{node46}" target="$fwd" tilt="-20.29"/>
+      <hotspot title="豪華Villa 2人房102" pan="-5.79" id="Point02" skinid="ht_node" description="" url="{node42}" target="$fwd" tilt="-16.11"/>
+      <hotspot title="Villa 2人房 101" pan="-97.31" id="Point03" skinid="ht_node" description="" url="{node44}" target="$fwd" tilt="-21.65"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node46" hideabout="1">
+    <input overlap="1" width="1898" leveltilesize="510" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1898" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1898" preload="0" height="1898"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Villa 2人房 101" comment="" datetime="2023/12/5 14:35" latitude="" description="沙發" nodeid="node46" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="102|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="Villa 2人房 101" pan="-169.42" id="Point01" skinid="ht_node" description="" url="{node45}" target="$fwd" tilt="-19.64"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node49" hideabout="1">
+    <input overlap="1" width="1876" leveltilesize="510" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1876" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1876" preload="0" height="1876"/>
+      <level predecode="0" width="938" preload="0" height="938"/>
+      <level predecode="1" width="469" preload="1" height="469"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Villa 2人房 103" comment="" datetime="2024/1/4 11:35" latitude="" description="私人庭院、私人泳池、發呆亭、戶外大浴缸、浪漫公主床(雙人加大)、房間發呆椅、泳池漂浮下午茶、房內蒸氣浴、歐舒丹備品、獨立分離式冷暖氣機、液晶電視、TOTO免治馬桶、峇里島進口傢俱、房內乾溼分離衛浴&#xa;&#xa;設施 : 空調 | 風扇 | 暖氣 | 蚊帳 | 大雙人床 | 私人花園 | 私人泳池 | 私人衛浴 | 浴缸 | 淋浴 | 吹風機 | 免費盥洗用品 | 拖鞋 | 浴帽 | 洗髮精 | 潤髮乳 | 毛巾 | 免費無線上網 | CD 播放機 | 有線頻道 | 電熱水壺 | 平面電視 &#xa;&#xa;大雙人床 x 1 | 4 人 | 27 坪&#xa;" nodeid="node49" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="103|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="Villa 走道 103/105" pan="-359.33" id="Point02" skinid="ht_node" description="" url="{node15}" target="$fwd" tilt="-0.74"/>
+      <hotspot title="Villa 2人房 103" pan="-177.55" id="Point01" skinid="ht_node" description="" url="{node52}" target="$fwd" tilt="-17.43"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node51" hideabout="1">
+    <input overlap="1" width="1900" leveltilesize="510" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1900" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1900" preload="0" height="1900"/>
+      <level predecode="0" width="950" preload="0" height="950"/>
+      <level predecode="1" width="475" preload="1" height="475"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Villa 2人房 103" comment="" datetime="2023/12/4 23:09" latitude="" description="浴室" nodeid="node51" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="103|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="Villa 2人房 103" pan="-92.64" id="Point01" skinid="ht_node" description="" url="{node52}" target="$fwd" tilt="-20.09"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node52" hideabout="1">
+    <input overlap="1" width="1898" leveltilesize="510" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1898" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1898" preload="0" height="1898"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Villa 2人房 103" comment="" datetime="2023/12/4 23:22" latitude="" description="落地窗前" nodeid="node52" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="103|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="Villa 2人房 103" pan="-268.13" id="Point01" skinid="ht_node" description="" url="{node53}" target="$fwd" tilt="-16.11"/>
+      <hotspot title="Villa 2人房 103" pan="-92.94" id="Point02" skinid="ht_node" description="" url="{node51}" target="$fwd" tilt="-20.51"/>
+      <hotspot title="Villa 2人房 103" pan="-4.97" id="Point03" skinid="ht_node" description="" url="{node49}" target="$fwd" tilt="-16.91"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node53" hideabout="1">
+    <input overlap="1" width="1900" leveltilesize="510" leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1900" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1900" preload="0" height="1900"/>
+      <level predecode="0" width="950" preload="0" height="950"/>
+      <level predecode="1" width="475" preload="1" height="475"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Villa 2人房 103" comment="" datetime="2023/12/4 23:40" latitude="" description="床頭" nodeid="node53" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="103|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="Villa 2人房 103" pan="-269.03" id="Point01" skinid="ht_node" description="" url="{node52}" target="$fwd" tilt="-15.67"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node56" hideabout="1">
+    <input overlap="1" width="1898" leveltilesize="510" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1898" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1898" preload="0" height="1898"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="豪華Villa 2人房 105" comment="" datetime="2023/12/4 23:57" latitude="" description="私人庭院、私人泳池、發呆亭、戶外大浴缸、浪漫公主床(雙人加大)、房間發呆椅、泳池漂浮下午茶、房內蒸氣浴、歐舒丹備品、獨立分離式冷暖氣機、液晶電視、TOTO免治馬桶、峇里島進口傢俱、房內乾溼分離衛浴&#xa;&#xa;設施 : 空調 | 風扇 | 暖氣 | 蚊帳 | 大雙人床 | 私人花園 | 私人泳池 | 私人衛浴 | 浴缸 | 淋浴 | 吹風機 | 免費盥洗用品 | 拖鞋 | 浴帽 | 洗髮精 | 潤髮乳 | 毛巾 | 免費無線上網 | CD 播放機 | 有線頻道 | 電熱水壺 | 平面電視 |免治馬桶&#xa;&#xa;大雙人床 x 1 | 4 人 | 35 坪&#xa;~豪華Villa另有獨立私人後院，設有戶外淋浴及擺放圓形大浴缸~" nodeid="node56" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="105|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="豪華Villa 2人房 105" pan="-0.3" id="Point03" skinid="ht_node" description="" url="{node60}" target="$fwd" tilt="-17.78"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node59" hideabout="1">
+    <input overlap="1" width="1898" leveltilesize="510" leveltileurl="tiles/node59/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1898" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1898" preload="0" height="1898"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="豪華Villa 2人房 105" comment="" datetime="2023/12/5 0:15" latitude="" description="沙發" nodeid="node59" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="105|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="豪華Villa 2人房 105" pan="-39.62" id="Point01" skinid="ht_node" description="" url="{node60}" target="$fwd" tilt="-15.95"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node60" hideabout="1">
+    <input overlap="1" width="1897" leveltilesize="510" leveltileurl="tiles/node60/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1897" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1897" preload="0" height="1897"/>
+      <level predecode="0" width="948" preload="0" height="948"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="豪華Villa 2人房 105" comment="" datetime="2023/12/5 0:36" latitude="" description="床頭" nodeid="node60" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="105|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="豪華Villa 2人房 105" pan="-90.41" id="Point02" skinid="ht_node" description="" url="{node58}" target="$fwd" tilt="-18.21"/>
+      <hotspot title="豪華Villa 2人房 105" pan="-307.23" id="Point01" skinid="ht_node" description="" url="{node59}" target="$fwd" tilt="-13.54"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node58" hideabout="1">
+    <input overlap="1" width="1899" leveltilesize="510" leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1899" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1899" preload="0" height="1899"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="豪華Villa 2人房 105" comment="" datetime="2023/12/5 0:07" latitude="" description="浴室" nodeid="node58" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="105|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="豪華Villa 2人房 105" pan="-275.17" id="Point02" skinid="ht_node" description="" url="{node60}" target="$fwd" tilt="-18.71"/>
+      <hotspot title="豪華Villa 2人房 105" pan="-17.91" id="Point03" skinid="ht_node" description="" url="{node62}" target="$fwd" tilt="-10.63"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node62" hideabout="1">
+    <input overlap="1" width="1877" leveltilesize="510" leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1877" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1877" preload="0" height="1877"/>
+      <level predecode="0" width="938" preload="0" height="938"/>
+      <level predecode="1" width="469" preload="1" height="469"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="豪華Villa 2人房 105" comment="" datetime="2023/12/3 0:01" latitude="" description="後院走道" nodeid="node62" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="105|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="豪華Villa 2人房 105" pan="-359.93" id="Point01" skinid="ht_node" description="" url="{node61}" target="$fwd" tilt="1"/>
+      <hotspot title="豪華Villa 2人房 105" pan="-265.78" id="Point02" skinid="ht_node" description="" url="{node58}" target="$fwd" tilt="-0.06"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node61" hideabout="1">
+    <input overlap="1" width="1898" leveltilesize="510" leveltileurl="tiles/node61/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1898" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1898" preload="0" height="1898"/>
+      <level predecode="0" width="949" preload="0" height="949"/>
+      <level predecode="1" width="474" preload="1" height="474"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="120" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="豪華Villa 2人房 105" comment="" datetime="2023/12/5 0:45" latitude="" description="戶外浴缸" nodeid="node61" source="" customnodeid="" heading="0" info="" author="" copyright="" longitude="" tags="105|Villa"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="豪華Villa 2人房 105" pan="-313.79" id="Point01" skinid="ht_node" description="" url="{node62}" target="$fwd" tilt="0.42"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <panorama id="node64" hideabout="1">
+    <input overlap="1" width="3411" leveltilesize="510" leveltileurl="tiles/node64/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3411" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="3411" preload="0" height="3411"/>
+      <level predecode="0" width="1705" preload="0" height="1705"/>
+      <level predecode="0" width="852" preload="0" height="852"/>
+      <level predecode="1" width="426" preload="1" height="426"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="-179.56" projection="4" fov="93.82" tilt="-80.65"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="空拍全景" comment="" datetime="2025:04:15 18:14:06" latitude="" description="" nodeid="node64" source="" customnodeid="Aerial_1" heading="0" info="" author="" copyright="" longitude="" tags="Aerial"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" wordwrap="1" bordercolor="0x000000" border="1" textalpha="1" textcolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="會館前" pan="-197.06" id="Point01" skinid="ht_node" description="" url="{node22}" target="$fwd" tilt="-75.37"/>
+      <hotspot title="大門入口" pan="-103.81" id="Point02" skinid="ht_node" description="" url="{node4}" target="$fwd" tilt="-56.88"/>
+      <hotspot title="Villa 走道 101/102" pan="-216.84" id="Point03" skinid="ht_node" description="" url="{node14}" target="$fwd" tilt="-63.84"/>
+      <hotspot title="碼頭" pan="-0.03" id="Point04" skinid="ht_node" description="" url="{node7}" target="$fwd" tilt="-86.13"/>
+      <hotspot title="音樂廳" pan="-267.94" id="Point05" skinid="ht_node" description="" url="{node9}" target="$fwd" tilt="-69.41"/>
+      <hotspot title="樓中樓4人房 201" pan="-83.27" id="Point06" skinid="ht_node" description="" url="{node26}" target="$fwd" tilt="-57.6"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" mode="0" id="_background" nodechangekeep="1" ambientlevel="0.000" field="90.000" pansize="10.000" tiltsize="10.000" pan="-1.000" level="1.000" loop="0" tilt="-1.000">
+        <source mono="0" url="media/Indonesia - BaliRhythms of the Rice Field.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="40" enabled="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" contextprojections="0" contextvr="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="夢峇里莊園民宿" comment="" author="" description="夢峇里莊園民宿 The Dreams bali manor&#xa;地址： 978花蓮縣瑞穗鄉南三路310號&#xa;電話號碼： 0932 650 258" copyright="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+    <translations>
+      <json>{"languages":["en"],"projectLanguage":"zh-TW","translations":{"201 客廳":["Room 201 - Living Room"],"201 樓中樓":["Room 201 - Loft"],"201 浴室":["Room 201 - Bathroom"],"202 客廳":["Room 202 - Living Room"],"202 樓中樓":["Room 202 - Loft"],"202 浴室":["Room 202 - Bathroom"],"2023/11/30 10:13":[""],"2023/12/2 11:06":[""],"2023/12/2 11:14":[""],"2023/12/2 17:15":[""],"2023/12/2 17:21":[""],"2023/12/2 17:29":[""],"2023/12/2 18:44":[""],"2023/12/2 19:48":[""],"2023/12/2 21:02":[""],"2023/12/3 0:01":[""],"2023/12/3 18:14":[""],"2023/12/3 21:30":[""],"2023/12/3 21:32":[""],"2023/12/3 22:18":[""],"2023/12/3 22:29":[""],"2023/12/3 22:35":[""],"2023/12/3 22:45":[""],"2023/12/4 0:22":[""],"2023/12/4 0:36":[""],"2023/12/4 0:47":[""],"2023/12/4 22:54":[""],"2023/12/4 23:09":[""],"2023/12/4 23:22":[""],"2023/12/4 23:40":[""],"2023/12/4 23:57":[""],"2023/12/5 0:07":[""],"2023/12/5 0:15":[""],"2023/12/5 0:36":[""],"2023/12/5 0:45":[""],"2023/12/5 12:00":[""],"2023/12/5 12:17":[""],"2023/12/5 12:26":[""],"2023/12/5 13:01":[""],"2023/12/5 13:11":[""],"2023/12/5 13:31":[""],"2023/12/5 14:35":[""],"2023/12/5 14:46":[""],"2023/12/5 17:15":[""],"2023/12/5 18:56":[""],"2024/1/4 11:35":[""],"2025:04:15 18:14:06":[""],"Aerial_1":[""],"Dreams Bali manor":[""],"Enter Fullscreen":[""],"Enter VR":[""],"Exit Fullscreen":[""],"Indonesia - BaliRhythms of the Rice Fields印尼峇里島(旅行音樂無版權音樂資料庫).mp3":[""],"Villa 2人房 101":["**Room 101 – Villa Double Room**"],"Villa 2人房 103":["**Room 103 – Villa Double Room**"],"Villa 走道 101/102":["Villa Walkway to 101 / 102"],"Villa 走道 103/105":["Villa Walkway to 103/105"],"夢峇里莊園民宿":["The Dreams bali manor B&amp;B"],"夢峇里莊園民宿 The Dreams bali manor\n地址： 978花蓮縣瑞穗鄉南三路310號\n電話號碼： 0932 650 258":["The Dreams bali manor B&amp;B\nAddress: No. 310, S. 3rd Rd., Ruisui Township, Hualien County 978002, Taiwan (R.O.C.)\nPhone number: 0932 650 258"],"大門入口":["Front Gate"],"床頭":["Bedside"],"往Villa | 會館":["Path to Villa / Clubhouse"],"往樓中樓":["Loft"],"後院走道":["Backyard Walkway"],"戶外浴缸":["Outdoor Bathtub"],"挑高斜屋頂，2張床獨立放在上下兩層樓，保有輕隱秘空間，可以坐在戶外露檯看著美麗的莊園景色，享用露檯早餐及下午茶。 戶外露檯、戶外露檯桌椅、峇里島吊籃椅、房內獨立衛浴及浴缸、峇里島進口傢俱、浪漫公主床(雙人加大)、樓中樓雙人床、獨立分離式冷暖氣機、60吋液晶電視、TOTO免治馬桶\n\n房型：大雙人床 x 1 | 雙人床 x 1 | 5 人 | 23 坪\n\n設施 :\n空調 | 衣櫥 | 暖氣 | 雙人床 | 大雙人床 | 嬰兒床 | 私人衛浴 | 浴缸 | 淋浴 | 吹風機 | 免費盥洗用品 | 拖鞋":["**Loft Quad Room**\n\nFeaturing a high sloped ceiling, the two beds are independently placed on upper and lower floors, offering a semi-private space. You can sit on the outdoor terrace, admire the beautiful view of the estate, and enjoy breakfast or afternoon tea on the terrace.\n\nOutdoor terrace, terrace table and chairs, Balinese hanging basket chair, private bathroom with bathtub, imported Balinese furniture, romantic canopy bed (king size), loft double bed, independent split-type air conditioner (heating and cooling), 60-inch LCD TV, TOTO bidet toilet.\n\n**1 king-size bed | 1 double bed | for 5 guests | 76 square meters**\n\n**Facilities:**\nAir conditioning | Wardrobe | Heating | Double bed | King-size bed | Baby crib | Private bathroom | Bathtub | Shower | Hair dryer | Free toiletries | Slippers"],"會館前":["Front of the hall"],"會館｜餐廳":["Hall | Restaurant"],"樓中樓4人房 201":["Loft 4-Person Room 201"],"樓中樓4人房 202":["Room 202 - Loft Quad Room"],"沙發":["Sofa"],"浴室":["Bathroom"],"碼頭":["Tourist dock"],"私人庭院、私人泳池、發呆亭、戶外大浴缸、浪漫公主床(雙人加大)、房間發呆椅、泳池漂浮下午茶、房內蒸氣浴、歐舒丹備品、獨立分離式冷暖氣機、液晶電視、TOTO免治馬桶、峇里島進口傢俱、房內乾溼分離衛浴\n\n設施 : 空調 | 風扇 | 暖氣 | 蚊帳 | 大雙人床 | 私人花園 | 私人泳池 | 私人衛浴 | 浴缸 | 淋浴 | 吹風機 | 免費盥洗用品 | 拖鞋 | 浴帽 | 洗髮精 | 潤髮乳 | 毛巾 | 免費無線上網 | CD 播放機 | 有線頻道 | 電熱水壺 | 平面電視 \n\n大雙人床 x 1 | 4 人 | 27 坪\n":["Private courtyard, private pool, gazebo, outdoor large bathtub, romantic canopy bed (king size), indoor lounge chair, floating afternoon tea in the pool, in-room steam bath, L’OCCITANE amenities, independent split-type air conditioning and heating, LCD TV, TOTO bidet toilet, imported Balinese furniture, and a separate wet/dry bathroom.\n\n**Amenities:**\nAir conditioning | Ceiling fan | Heating | Mosquito net | King-size bed | Private garden | Private pool | Private bathroom | Bathtub | Shower | Hairdryer | Free toiletries | Slippers | Shower cap | Shampoo | Conditioner | Towels | Free Wi-Fi | CD player | Cable channels | Electric kettle | Flat-screen TV\n\n**Bed:** 1 king-size bed\n**Capacity:** 4 guests\n**Area:** 27 pings (approx. 89.25 m²)\n"],"私人庭院、私人泳池、發呆亭、戶外大浴缸、浪漫公主床(雙人加大)、房間發呆椅、泳池漂浮下午茶、房內蒸氣浴、歐舒丹備品、獨立分離式冷暖氣機、液晶電視、TOTO免治馬桶、峇里島進口傢俱、房內乾溼分離衛浴\n\n設施 : 空調 | 風扇 | 暖氣 | 蚊帳 | 大雙人床 | 私人花園 | 私人泳池 | 私人衛浴 | 浴缸 | 淋浴 | 吹風機 | 免費盥洗用品 | 拖鞋 | 浴帽 | 洗髮精 | 潤髮乳 | 毛巾 | 免費無線上網 | CD 播放機 | 有線頻道 | 電熱水壺 | 平面電視 |免治馬桶\n\n大雙人床 x 1 | 4 人 | 35 坪\n~豪華Villa另有獨立私人後院，設有戶外淋浴及擺放圓形大浴缸~":["Private courtyard, private pool, Balinese-style pavilion, outdoor large bathtub, romantic canopy bed (king size), indoor lounge chair, floating afternoon tea in the pool, in-room steam bath, L'Occitane toiletries, independent split air conditioning, LCD TV, TOTO bidet toilet, imported Balinese furniture, and an en-suite bathroom with separate wet and dry areas.\n\n**Amenities:**\nAir conditioning | Fan | Heater | Mosquito net | King-size bed | Private garden | Private pool | Private bathroom | Bathtub | Shower | Hairdryer | Complimentary toiletries | Slippers | Shower cap | Shampoo | Conditioner | Towels | Free Wi-Fi | CD player | Cable channels | Electric kettle | Flat-screen TV | Bidet toilet\n\n**Bed Configuration:**\n1 King-size bed | Up to 4 guests | 115 m² (35 pings)\n\nThis deluxe villa also features a private rear courtyard with an outdoor shower and a round oversized bathtub."],"空拍全景":["Aerial Panorama"],"聯外道路":["Access Road"],"落地窗前":["Floor-to-ceiling window"],"豪華Villa 2人房 105":["Room 105 - Deluxe Villa Double Room"],"豪華Villa 2人房102":["Room 102 - Deluxe Villa Double Room"],"音樂廳":["Music Bale"]}}</json>
+      <projecttranslation langcode="zh-TW" langname="繁體中文"/>
+      <projecttranslation langcode="en" langname="English"/>
+    </translations>
+  </masternode>
+</tour>
